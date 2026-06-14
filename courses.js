@@ -1,3 +1,4 @@
+const courses = [
 {
     title: "CHƯƠNG I. ĐỒ THỊ HÀM SỐ",
     lessons: [
@@ -552,3 +553,4 @@
 
     ]
 }
+];
