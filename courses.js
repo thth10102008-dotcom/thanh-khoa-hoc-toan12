@@ -58,7 +58,7 @@ const courses = [
         }
 
     ]
-}
+},
 {
     title: "CHƯƠNG II. VECTƠ VÀ HỆ TỌA ĐỘ TRONG KHÔNG GIAN",
     lessons: [
@@ -168,7 +168,7 @@ const courses = [
         }
 
     ]
-}
+},
 {
     title: "CHƯƠNG III. MẪU SỐ LIỆU GHÉP NHÓM",
     lessons: [
@@ -198,7 +198,7 @@ const courses = [
         }
 
     ]
-}
+},
 {
     title: "CHƯƠNG IV. NGUYÊN HÀM - TÍCH PHÂN",
     lessons: [
@@ -338,7 +338,7 @@ const courses = [
         }
 
     ]
-}
+},
 {
     title: "CHƯƠNG V. PHƯƠNG TRÌNH MẶT PHẲNG, ĐƯỜNG THẲNG, MẶT CẦU TRONG KHÔNG GIAN",
     lessons: [
@@ -468,7 +468,7 @@ const courses = [
         }
 
     ]
-}
+},
 {
     title: "CHƯƠNG VI. XÁC SUẤT CÓ ĐIỀU KIỆN",
     lessons: [
