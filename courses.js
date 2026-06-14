@@ -549,8 +549,6 @@ const courses = [
             title: "[BÀI 4] Luyện tập xác suất có điều kiện (Buổi 2)",
             video: "https://www.youtube.com/watch?v=N0Wo6kX0LGA",
             document: "https://drive.google.com/file/d/15O9zQJ8d9zNwm1uNGWkezHqGjqzXtQd5/view?usp=drive_link"
-        }
-
     ]
 }
 ];
